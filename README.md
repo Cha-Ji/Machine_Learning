@@ -5,7 +5,7 @@
 
 [kaggle](https://kaggle.com)
 
-
+Azure for students : $100 credit
 # 강사님이 올려주신 강의자료 입니다.
 
 ## Microsoft AI 소개 자료 (docx, pdf)
